@@ -15,7 +15,9 @@ e estruturação de software com Python.
 
 ## Funcionalidades Principais (Esqueleto)
 -[x] Estrutura para identificação de mesas.
+
 -[x] Lançamento e registro de pedidos por comandos.
+
 -[x] Base para controle de consumo por mesa.
 
 ## Como executar o Projeto
