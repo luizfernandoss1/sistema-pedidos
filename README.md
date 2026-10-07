@@ -14,11 +14,9 @@ e estruturação de software com Python.
 - **Python**: Linguagem principal utilizada para construir toda a lógica de negócios, controle de mesas e fluxo de pedidos.
 
 ## Funcionalidades Principais (Esqueleto)
--[x] Estrutura para identificação de mesas.
-
--[x] Lançamento e registro de pedidos por comandos.
-
--[x] Base para controle de consumo por mesa.
+- [x] Estrutura para identificação de mesas.
+- [x] Lançamento e registro de pedidos por comandos.
+- [x] Base para controle de consumo por mesa.
 
 ## Como executar o Projeto
 
