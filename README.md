@@ -32,7 +32,7 @@ Para rodar este projeto na sua máquina local, voce precisará ter o Python inst
    ```
 3. Execute o script principal utilizando o comando:
    ```bash
-   python sistema.py
+   python_sistema.py
    ```
 ## Licença
 Este projeto esta sob a licença MIT.
