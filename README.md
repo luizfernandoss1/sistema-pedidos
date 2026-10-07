@@ -1,6 +1,6 @@
 # Sistema de Pedidos
 
-> Um esqueleto de um projeto simplesde lançamento de pedidos para qualquer estabelecimento que trabalhe com sistema de mesas e comandas.
+> Um esqueleto de um projeto simples, de lançamento de pedidos para qualquer estabelecimento que trabalhe com sistema de mesas e comandas.
 
 ## Sobre o Projeto 
 Este projeto foi desenvolvido com o objetivo de fornecer uma estrutura inicial (esqueleto) para gerenciar o fluxo de pedidos dentro de 
@@ -15,7 +15,7 @@ e estruturação de software com Python.
 
 ## Funcionalidades Principais (Esqueleto)
 -[x] Estrutura para identificação de mesas.
--[x] Lanaçamento e registro de pedidos por comandos.
+-[x] Lançamento e registro de pedidos por comandos.
 -[x] Base para controle de consumo por mesa.
 
 ## Como executar o Projeto
